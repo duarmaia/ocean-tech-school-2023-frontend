@@ -1,10 +1,8 @@
 import './App.css'
 function App() {
  
-
   return (
     <>
-    <Card /> 
       <div className="card">
       <h2>Ricky Sanchez</h2>
       <div className="tags">
